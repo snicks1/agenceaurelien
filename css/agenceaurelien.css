@@ -1,0 +1,128 @@
+.addcategoryform div.input,  .addcategoryform div.submit {
+  float:left;
+}
+
+.invisible {
+  display:none;
+}
+
+h4 li {
+  list-style-position: inside;
+  font-size:12px;
+}
+
+form.trashform {
+  display:inline;
+}
+
+div.field {
+  float:left;
+  width:220px;
+  margin-right:10px;
+  padding-right:10px
+}
+
+div.blockfield {
+  width:350px;
+}
+
+label  {
+  
+  line-height: 25px;
+  text-shadow: 0 1px 0 #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+td.alphabeta {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+
+td.alphabeta ul {
+  margin:0;
+  padding:0;
+  float:left;
+  height:38px;
+  line-height:38px;
+}
+
+td.alphabeta ul li {
+  list-style:none;
+  float:left;
+  text-transform: uppercase;
+  font-weight:bold;
+  text-shadow: 0 1px 0 #fff;
+}
+
+form.people_search {
+  float:right;
+  width:250px;
+  padding-top:1px;
+}
+
+ul.multiselectbox {
+  width:400px;
+  margin:0;
+  padding:0;
+}
+
+ul.multiselectbox li {
+  list-style:none;
+  float:left;
+  width:200px;
+  text-transform: uppercase;
+  font-weight:bold;
+  text-shadow: 0 1px 0 #fff;
+}
+
+div.menutop {
+  float:left;
+  margin:8px 0 0 -15px;
+}
+
+div.menutop label {
+  text-transform: uppercase;
+  font-weight:bold;
+  text-shadow: 0 1px 0 #fff;
+  display:block;
+  float:left;
+  height:17px;
+  line-height:17px;
+  margin-right:10px;
+  color:#666;
+}
+
+a.itemlist {
+  color:#000;
+}
+
+
+
+a:hover {
+  text-decoration:none;
+}
+img {
+  border:0;
+}
+
+#pagination {
+  text-align:center;
+}
+
+#pagination li{
+  list-style:none;
+  display:inline;
+  text-transform: uppercase;
+  font-weight:bold;
+  text-shadow: 0 1px 0 #fff;
+  padding:3px;
+}
+
+#pagination  li a{
+  color:#666;
+}
+
+

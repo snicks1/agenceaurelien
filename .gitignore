@@ -1,1 +1,11 @@
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+.settings/
+.project
+files/pho_bak/
+files/photos/
+files/photos/*.jpeg
+files/*.jpeg
+files/thumbs/cache/
 files/*.jpg
